@@ -17,7 +17,7 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          GITHUB_TOKEN: ${{ secrets.BLOCKCHAIN_SIMULATOR_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REACTIVE_TASK_GITHUB_TOKEN }}
           BRANCH: gh-pages
           FOLDER: build
           CLEAN: true
