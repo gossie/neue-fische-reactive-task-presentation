@@ -307,7 +307,9 @@ function App() {
                     </ListItem>
                     <ListItem>Für den zweiten Test könnte das <Link href="https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/reactive/function/client/WebClient.html">JavaDoc</Link> vom WebClient helfen</ListItem>
                 </UnorderedList>
-                
+                <Notes>
+                    <a href="https://www.andreschreck.de/neue-fische-reactive-task-presentation/?slideIndex=12&stepIndex=0">Übung</a>
+                </Notes>
             </Slide>
             <Slide>
                 <Heading>Ein kleines Schmankerl nebenbei</Heading>
