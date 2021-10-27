@@ -269,7 +269,7 @@ function App() {
                 </Appear>
             </Slide>
             <Slide>
-                <Heading>Unser Controller vom Anfang in Webflux</Heading>
+                <Heading>Unser Controller vom Anfang mit Webflux</Heading>
                 <Appear>
                     <CodePane language="java">
                         {`
