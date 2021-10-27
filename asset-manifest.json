@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/neue-fische-reactive-task-presentation/static/css/main.afd7172b.chunk.css",
-    "main.js": "/neue-fische-reactive-task-presentation/static/js/main.a0469389.chunk.js",
-    "main.js.map": "/neue-fische-reactive-task-presentation/static/js/main.a0469389.chunk.js.map",
-    "runtime-main.js": "/neue-fische-reactive-task-presentation/static/js/runtime-main.92c7df69.js",
-    "runtime-main.js.map": "/neue-fische-reactive-task-presentation/static/js/runtime-main.92c7df69.js.map",
-    "static/js/2.f67a137a.chunk.js": "/neue-fische-reactive-task-presentation/static/js/2.f67a137a.chunk.js",
-    "static/js/2.f67a137a.chunk.js.map": "/neue-fische-reactive-task-presentation/static/js/2.f67a137a.chunk.js.map",
-    "static/js/3.2e556e73.chunk.js": "/neue-fische-reactive-task-presentation/static/js/3.2e556e73.chunk.js",
-    "static/js/3.2e556e73.chunk.js.map": "/neue-fische-reactive-task-presentation/static/js/3.2e556e73.chunk.js.map",
+    "main.js": "/neue-fische-reactive-task-presentation/static/js/main.cb624732.chunk.js",
+    "main.js.map": "/neue-fische-reactive-task-presentation/static/js/main.cb624732.chunk.js.map",
+    "runtime-main.js": "/neue-fische-reactive-task-presentation/static/js/runtime-main.7c293e5a.js",
+    "runtime-main.js.map": "/neue-fische-reactive-task-presentation/static/js/runtime-main.7c293e5a.js.map",
+    "static/js/2.0525865a.chunk.js": "/neue-fische-reactive-task-presentation/static/js/2.0525865a.chunk.js",
+    "static/js/2.0525865a.chunk.js.map": "/neue-fische-reactive-task-presentation/static/js/2.0525865a.chunk.js.map",
+    "static/js/3.a592b318.chunk.js": "/neue-fische-reactive-task-presentation/static/js/3.a592b318.chunk.js",
+    "static/js/3.a592b318.chunk.js.map": "/neue-fische-reactive-task-presentation/static/js/3.a592b318.chunk.js.map",
     "index.html": "/neue-fische-reactive-task-presentation/index.html",
     "static/css/main.afd7172b.chunk.css.map": "/neue-fische-reactive-task-presentation/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.f67a137a.chunk.js.LICENSE.txt": "/neue-fische-reactive-task-presentation/static/js/2.f67a137a.chunk.js.LICENSE.txt",
+    "static/js/2.0525865a.chunk.js.LICENSE.txt": "/neue-fische-reactive-task-presentation/static/js/2.0525865a.chunk.js.LICENSE.txt",
     "static/media/single-request-reactive.cf33d896.png": "/neue-fische-reactive-task-presentation/static/media/single-request-reactive.cf33d896.png",
     "static/media/single-request.29e4977f.png": "/neue-fische-reactive-task-presentation/static/media/single-request.29e4977f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.92c7df69.js",
-    "static/js/2.f67a137a.chunk.js",
+    "static/js/runtime-main.7c293e5a.js",
+    "static/js/2.0525865a.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.a0469389.chunk.js"
+    "static/js/main.cb624732.chunk.js"
   ]
 }
